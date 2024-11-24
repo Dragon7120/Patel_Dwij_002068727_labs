@@ -256,7 +256,7 @@ public class ViewProductDetailJPanel extends javax.swing.JPanel {
     private void btnAddFeatureActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAddFeatureActionPerformed
         // TODO add your handling code here:
         
-        Feature newFeature = product.addNewFeature
+        Feature newFeature = product.addNewFeature;
         newFeature.setName("New Feature");
         newFeature.setValue("Type Value here");
                 
